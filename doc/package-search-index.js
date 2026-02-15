@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.leanderson.araujo.livraria"},{"l":"com.leanderson.araujo.livraria.model"},{"l":"com.leanderson.araujo.livraria.repository"},{"l":"com.leanderson.araujo.livraria.service"}];updateSearchResults();
