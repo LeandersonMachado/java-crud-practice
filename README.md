@@ -28,6 +28,6 @@ O projeto reforça os seguintes pilares do Java moderno:
 ## 🛠️ Como Executar
 
 1.  **Pré-requisitos:** Java 17+ e IDE (Eclipse, IntelliJ, etc.).
-2.  **Clonar o Repositório:** `git clone https://github.com/LeandersonAraujo/java-backend-essentials-crud.git`
+2.  **Clonar o Repositório:** `git clone https://github.com/LeandersonMachado/java-crud-practice.git`
 3.  **Importar:** Importe o projeto no seu IDE como um Projeto Maven existente.
 4.  **Executar:** Execute a classe principal `App.java` para rodar o fluxo completo do CRUD no console.
